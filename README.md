@@ -1,1 +1,1 @@
-https://madalina2003.github.io/FoodWasteStory/foodwaste.html
+https://madalina2003.github.io/FoodWasteStory/HomePage.html
